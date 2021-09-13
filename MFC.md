@@ -1,7 +1,7 @@
 # MFC.
 
 ## Console 예제 코드.
-```c++
+```cpp
 #include "pch.h"
 #include "framework.h"
 #include "Console.h“
